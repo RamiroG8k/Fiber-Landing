@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/fiber-landing/static/css/main.bfeb3117.chunk.css",
-    "main.js": "/fiber-landing/static/js/main.54b81956.chunk.js",
-    "main.js.map": "/fiber-landing/static/js/main.54b81956.chunk.js.map",
-    "runtime-main.js": "/fiber-landing/static/js/runtime-main.fd12d4e1.js",
-    "runtime-main.js.map": "/fiber-landing/static/js/runtime-main.fd12d4e1.js.map",
-    "static/js/2.857cff89.chunk.js": "/fiber-landing/static/js/2.857cff89.chunk.js",
-    "static/js/2.857cff89.chunk.js.map": "/fiber-landing/static/js/2.857cff89.chunk.js.map",
-    "index.html": "/fiber-landing/index.html",
-    "precache-manifest.f4ecf85c6f1f83f000d4d607b9fca01e.js": "/fiber-landing/precache-manifest.f4ecf85c6f1f83f000d4d607b9fca01e.js",
-    "service-worker.js": "/fiber-landing/service-worker.js",
-    "static/css/main.bfeb3117.chunk.css.map": "/fiber-landing/static/css/main.bfeb3117.chunk.css.map",
-    "static/js/2.857cff89.chunk.js.LICENSE.txt": "/fiber-landing/static/js/2.857cff89.chunk.js.LICENSE.txt"
+    "main.css": "/Fiber-Landing/static/css/main.bfeb3117.chunk.css",
+    "main.js": "/Fiber-Landing/static/js/main.28347070.chunk.js",
+    "main.js.map": "/Fiber-Landing/static/js/main.28347070.chunk.js.map",
+    "runtime-main.js": "/Fiber-Landing/static/js/runtime-main.776b750c.js",
+    "runtime-main.js.map": "/Fiber-Landing/static/js/runtime-main.776b750c.js.map",
+    "static/js/2.857cff89.chunk.js": "/Fiber-Landing/static/js/2.857cff89.chunk.js",
+    "static/js/2.857cff89.chunk.js.map": "/Fiber-Landing/static/js/2.857cff89.chunk.js.map",
+    "index.html": "/Fiber-Landing/index.html",
+    "precache-manifest.7baf16191088bab00f93f00291355871.js": "/Fiber-Landing/precache-manifest.7baf16191088bab00f93f00291355871.js",
+    "service-worker.js": "/Fiber-Landing/service-worker.js",
+    "static/css/main.bfeb3117.chunk.css.map": "/Fiber-Landing/static/css/main.bfeb3117.chunk.css.map",
+    "static/js/2.857cff89.chunk.js.LICENSE.txt": "/Fiber-Landing/static/js/2.857cff89.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd12d4e1.js",
+    "static/js/runtime-main.776b750c.js",
     "static/js/2.857cff89.chunk.js",
     "static/css/main.bfeb3117.chunk.css",
-    "static/js/main.54b81956.chunk.js"
+    "static/js/main.28347070.chunk.js"
   ]
 }
