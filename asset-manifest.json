@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fiber-landing/static/css/main.bfeb3117.chunk.css",
+    "main.js": "/fiber-landing/static/js/main.54b81956.chunk.js",
+    "main.js.map": "/fiber-landing/static/js/main.54b81956.chunk.js.map",
+    "runtime-main.js": "/fiber-landing/static/js/runtime-main.fd12d4e1.js",
+    "runtime-main.js.map": "/fiber-landing/static/js/runtime-main.fd12d4e1.js.map",
+    "static/js/2.857cff89.chunk.js": "/fiber-landing/static/js/2.857cff89.chunk.js",
+    "static/js/2.857cff89.chunk.js.map": "/fiber-landing/static/js/2.857cff89.chunk.js.map",
+    "index.html": "/fiber-landing/index.html",
+    "precache-manifest.f4ecf85c6f1f83f000d4d607b9fca01e.js": "/fiber-landing/precache-manifest.f4ecf85c6f1f83f000d4d607b9fca01e.js",
+    "service-worker.js": "/fiber-landing/service-worker.js",
+    "static/css/main.bfeb3117.chunk.css.map": "/fiber-landing/static/css/main.bfeb3117.chunk.css.map",
+    "static/js/2.857cff89.chunk.js.LICENSE.txt": "/fiber-landing/static/js/2.857cff89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd12d4e1.js",
+    "static/js/2.857cff89.chunk.js",
+    "static/css/main.bfeb3117.chunk.css",
+    "static/js/main.54b81956.chunk.js"
+  ]
+}
